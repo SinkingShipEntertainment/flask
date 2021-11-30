@@ -40,6 +40,7 @@ requires = [
     "itsdangerous",
     "cryptography",
     "cffi",
+    "click",
 ]
 
 private_build_requires = [
